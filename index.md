@@ -20,7 +20,7 @@
 
 
 # [YouTube-Music-Discord-Bot](https://github.com/ErikM14/Music-Discord-Bot)
-* Discord built using Python, discord.py API, and [youtube-search-python library](https://github.com/alexmercerind/youtube-search-python)
+* Discord bot built using Python, discord.py API, and [youtube-search-python library](https://github.com/alexmercerind/youtube-search-python)
 * Retrieves top video from YouTube upon user input, designed around uploaded music tracks
 * Stores URLs into database that can be called using $random to play a randomly stored video/track
 
