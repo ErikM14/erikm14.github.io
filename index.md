@@ -3,20 +3,8 @@
   <img width="206" height="200" src="/Images/ErikMichael.PNG">
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<div align="center">West Chester University 2021</div>
+<div align="center">Computer Science/Geoscience - Earth Systems</div>
 
 
 
