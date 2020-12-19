@@ -5,7 +5,7 @@
 
 <div align="center">West Chester University 2021</div>
 <div align="center">Computer Science/Geoscience - Earth Systems</div>
-<div align="center">[GitHub Profile](https://github.com/ErikM14)</div>
+<div align="center" href="https://github.com/ErikM14">GitHub Profile</div>
 
 
 
