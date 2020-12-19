@@ -1,4 +1,8 @@
-![](/Images/ErikMichael.PNG)
+
+<p align="center">
+  <img width="206" height="200" src="/Images/ErikMichael.PNG">
+</p>
+
 
 
 
