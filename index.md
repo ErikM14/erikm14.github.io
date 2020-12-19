@@ -12,8 +12,8 @@
 
 
 # [The Maze Game](https://play.unity.com/mg/other/the-maze-game)
-* Game built using Unity, Blender, and C# for CSC476.
-* Collaborated with two classmates to implement course material
+* Game built using Unity, Blender, and C# for CSC476
+* Collaborated with two classmates to implement course and self-teaching material
 
 
 
